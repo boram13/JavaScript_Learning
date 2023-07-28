@@ -1,4 +1,4 @@
-function word(str){
+function orderAlphabetically(str){
     
     // .split
     let splited = str.split("")
@@ -10,5 +10,5 @@ function word(str){
     let joined = sorted.join("")
     return joined
 }
-let newWord = word("helius systems")
-console.log(newWord)
+let newOrder = orderAlphabetically("helius systems")
+console.log(newOrder)

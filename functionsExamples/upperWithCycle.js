@@ -1,7 +1,7 @@
 
 //ushtirm i gatshem nga stackoverflow
 
-function UpperWithCycle(str) {
+function upperWithCycle(str) {
     str = str.split(' ');
     let result = '';
   
@@ -11,4 +11,4 @@ function UpperWithCycle(str) {
     return result;
   }
   
-  console.log(UpperWithCycle('hello everyone my name is Andrew, how are you doing?'))
+  console.log(upperWithCycle('hello everyone my name is Andrew, how are you doing?'))

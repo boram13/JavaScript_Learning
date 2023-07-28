@@ -1,7 +1,7 @@
 
 // first we create a const  array object
-const student1Name = "Ardit";
-const student1Surname = "Sinani";
+const student1Name = "Era";
+const student1Surname = "Menerja";
 const student1Age = 28;
 const student1Courses = ["TIK", "English", "MAth"];
 const student1Graduated = true;

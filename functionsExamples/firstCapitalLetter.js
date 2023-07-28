@@ -1,5 +1,5 @@
 
-function firstWord( str ) {
+function firstCapitalLetter( str ) {
    
     let word  = str.split(" ");
     let print = ""; 
@@ -17,5 +17,5 @@ function firstWord( str ) {
     return print
 } 
 
-let secondFunction = firstWord("helius systems junior developer")
+let secondFunction = firstCapitalLetter("helius systems junior developer")
 console.log(secondFunction)

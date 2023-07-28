@@ -1,4 +1,4 @@
-let cap = (str) => {
+let capitalLetter = (str) => {
        let arr = str.split(' ');
        arr.forEach(function(item, index) {
               
@@ -8,5 +8,5 @@ let cap = (str) => {
        return arr.join(' ');
      };
      
-     console.log(cap("graduation loading year"));
+     console.log(capitalLetter("graduation loading year"));
 

@@ -1,6 +1,6 @@
-let functionArray=(arr)=>{
-    
 
+let printEachElement=(arr)=>{
+    
     for (let i = 0; i < arr.length; i++){
     
         console.log((i + 1) + '. ' + arr[i])
@@ -8,5 +8,5 @@ let functionArray=(arr)=>{
     }
     }
     
-    let functionEl= functionArray(["a","b","c"])
+    let functionEl= printEachElement(["a","b","c"])
     

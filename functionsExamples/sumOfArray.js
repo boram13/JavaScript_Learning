@@ -1,5 +1,6 @@
+
 // krijoj vektorin
-let functionNum= (arr) =>{
+let sumOfArray= (arr) =>{
 
 //mar nje variabel per shumen dhe e inicializoj shumen qe nis nga zero
 let sum = 0
@@ -10,9 +11,7 @@ for (let i = 0; i < arr.length; i++ ) {
     sum += arr[i]
 
 }
-
 return sum
-
 }
-let functionSum = functionNum([1,2,3,4,5])
+let functionSum = sumOfArray([1,2,3,4,5])
 console.log(functionSum)

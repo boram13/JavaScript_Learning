@@ -1,14 +1,18 @@
+
 // deklaroj funksionin qe do gjej minimumin 
 function minElement(arr) {
    
     elMin = arr[0];
+
     //cikli qe do futem ne vektor te kontrolloj elementet qe kam , supozoj qe kam n elemente 
     for (let i = 0; i < arr.length; i++){
-        if (arr[i] < elMin )  {     
+
+        if (arr[i] < elMin )  {    
+
             elMin = arr[i];
         }
     }
-
+    
      return elMin
  
     }

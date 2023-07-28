@@ -12,7 +12,7 @@ function longestString(str){
     for ( let i = 0; i < splited.length; i++ ) {
 
         const current = splited[i]
-
+    //do mar nje loop tjeter qe me krahasn gjatesite        
         if( current.length>longest.length){
 
         longest = current
@@ -25,5 +25,5 @@ function longestString(str){
 
 
 }
-let inputString = longestString("development helius systems developer")
-console.log(inputString)
+let outputString = longestString("development helius systems developer")
+console.log(outputString)

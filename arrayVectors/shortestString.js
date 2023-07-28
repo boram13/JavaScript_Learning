@@ -1,4 +1,4 @@
-function longestString(str){
+function shortestString(str){
     
     //  split
     let splited = str.split( " ")
@@ -24,5 +24,5 @@ function longestString(str){
 
 
 }
-let inputString = longestString("development helius systems developer")
+let inputString = shortestString("development helius systems developer")
 console.log(inputString)
