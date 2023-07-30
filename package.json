@@ -24,7 +24,8 @@
     "orderAlphabetically:function": "node arrayVectors/orderAlphabetically.js",
     "longestString:function": "node arrayVectors/longestString.js",
     "shortestString:function": "node arrayVectors/shortestString.js",
-    "printEachElement:function": "node functionsExamples/printEachElement.js"
+    "printEachElement:function": "node functionsExamples/printEachElement.js",
+    "vowelCounting:function": "node arrayVectors/vowelCounting.js"
    
    
   },

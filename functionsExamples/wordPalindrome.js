@@ -1,21 +1,24 @@
-function palindrome(str)
-{
-    for(let i = 0; i < str.length; i++){
-
-        let  x = str.length -1;
-        if (str[i] !== str[x - i])
-        {
-            return false;
-        }
-    }return true;
+function palindrome(str){
+    function indexOfArray()
+     
+    let x = str.length -1; 
+    str[i] !== str[x - i];
+    return str[i]
 
 }
 
 
+
 function wordPalindrome(str){
 
-     return palindrome(str)
-    
+    for(let i = 0; i < str.length; i++){
+       
+        if (palindrome(str))
+        {
+            return false;
+        }
+    }
+    return true;
 }
 let inputFunction = wordPalindrome("abdbba")
 console.log(inputFunction)
