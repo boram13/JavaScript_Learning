@@ -2,7 +2,8 @@
 function longestString(str){
     
     //  split
-    let splited = str.split( " ")
+    let splited = str.split("")
+    console.log(splited)
    
 
     //mar nje variabel dhe do mbaj numrin me te madh duke nis si nje stringe pa karaktere, qe nis gjatesia nga zero
