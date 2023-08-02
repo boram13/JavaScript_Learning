@@ -25,8 +25,17 @@
     "longestString:function": "node arrayVectors/longestString.js",
     "shortestString:function": "node arrayVectors/shortestString.js",
     "printEachElement:function": "node functionsExamples/printEachElement.js",
-    "vowelCounting:function": "node arrayVectors/vowelCounting.js"
-   
+    "vowelCounting:function": "node arrayVectors/vowelCounting.js",
+    "typeOfVariables:function": "node arrayVectors/typeOfVariables.js",
+    "exampleVariables:function": "node utils/exampleVariables.js",
+    "matrix:function": "node functionsExamples/matrix.js",
+    "secondLowestGreatest:function": "node functionsExamples/secondLowestGreatest.js",
+    "rowColumnBasedMatrix:function": "node functionsExamples/rowColumnBasedMatrix.js",
+    "matrixMxN:function": "node functionsExamples/matrixMxN.js",
+    "student:class": "node classesExamples/studentClassExample.js"
+    
+    
+    
    
   },
   "author": "",
