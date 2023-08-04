@@ -33,7 +33,7 @@
     "rowColumnBasedMatrix:function": "node functionsExamples/rowColumnBasedMatrix.js",
     "matrixMxN:function": "node functionsExamples/matrixMxN.js",
     "student:function": "node models/Student.js",
-    "fiveStudentsClass:function": "node classesExamples/fiveStudentsClass.js"
+    "getFullNameAndGrades:function": "node classesExamples/getFullNameAndGrades.js"
     
     
     
