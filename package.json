@@ -32,7 +32,8 @@
     "secondLowestGreatest:function": "node functionsExamples/secondLowestGreatest.js",
     "rowColumnBasedMatrix:function": "node functionsExamples/rowColumnBasedMatrix.js",
     "matrixMxN:function": "node functionsExamples/matrixMxN.js",
-    "student:class": "node classesExamples/studentClassExample.js"
+    "student:function": "node models/Student.js",
+    "fiveStudentsClass:function": "node classesExamples/fiveStudentsClass.js"
     
     
     
