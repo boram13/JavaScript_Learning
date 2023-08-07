@@ -33,8 +33,11 @@
     "rowColumnBasedMatrix:function": "node functionsExamples/rowColumnBasedMatrix.js",
     "matrixMxN:function": "node functionsExamples/matrixMxN.js",
     "student:function": "node models/Student.js",
-    "getFullNameAndGrades:function": "node classesExamples/getFullNameAndGrades.js"
-    
+    "getFullNameAndGrades:function": "node classesExamples/getFullNameAndGrades.js",
+    "personProperties:function": "node classesExamples/personProperties.js",
+    "studentClassExample:function": "node classesExamples/studentClassExample.js",
+    "bankAcc:function": "node models/BankAcc.js"
+
     
     
    
