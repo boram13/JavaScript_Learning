@@ -36,9 +36,11 @@
     "getFullNameAndGrades:function": "node classesExamples/getFullNameAndGrades.js",
     "personProperties:function": "node classesExamples/personProperties.js",
     "studentClassExample:function": "node classesExamples/studentClassExample.js",
-    "bankAcc:function": "node models/BankAcc.js"
-
-    
+    "bankAcc:function": "node models/BankAcc.js",
+    "bankAccProperties:function":"node classesExamples/bankAccProperties.js",
+    "firstExample:callback": "node callbackExamples/firstExample.js",
+    "secondExample:callback": "node callbackExamples/secondExample.js"
+  
     
    
   },
