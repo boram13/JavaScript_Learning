@@ -42,4 +42,3 @@ class Student {
 }
 
 module.exports = Student
-console.log(Student)
