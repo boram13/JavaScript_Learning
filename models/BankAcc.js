@@ -6,7 +6,7 @@ class BankAccount {
       this.accountNumber = accountNumber;
       this.balance = balance;
     }
-
+// krijoj nga nje funnksion per secilin veprim qe kerkoj te bej per deposir dhe withdrow
 
   deposit(money) {
     this.balance += money;

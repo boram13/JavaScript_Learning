@@ -19,3 +19,8 @@ function firstCapitalLetter( str ) {
 
 let secondFunction = firstCapitalLetter("helius systems junior developer")
 console.log(secondFunction)
+// i bej export ketij funksioni per ta perdorur tek callback 
+
+module.exports = {
+  firstCapitalLetter
+}
