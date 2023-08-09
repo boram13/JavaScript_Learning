@@ -15,6 +15,7 @@ function uniqueChar(item){
   
    }
   }
+  
   return uniqueChar;  
 }  
 
