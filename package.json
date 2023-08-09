@@ -39,10 +39,14 @@
     "bankAcc:function": "node models/BankAcc.js",
     "bankAccProperties:function":"node classesExamples/bankAccProperties.js",
     "firstExample:callback": "node callbackExamples/firstExample.js",
-    "secondExample:callback": "node callbackExamples/secondExample.js"
-  
-    
-   
+    "secondExample:callback": "node callbackExamples/secondExample.js",
+    "socketExample:callback": "node callbackExamples/socketExample.js",
+    "doubleNumbers:callback": "node callbackExamples/doubleNumbers.js",
+    "numbersToCoins:function": "node functionsExamples/numbersToCoins.js",
+    "uniqueCharacters:function": "node functionsExamples/uniqueCharacters.js",
+    "toCoins:function": "node functionsExamples/toCoins.js"
+
+
   },
   "author": "",
   "license": "ISC"
