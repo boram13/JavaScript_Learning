@@ -5,5 +5,5 @@ function printStudent(name,surname) {
 
 }
 printStudent("Bora","Menerja")
-printStudent("Ardit", "Sinani")
-printStudent("Bora","Menerja","Sinani")
+printStudent("Alvin", "Dee")
+

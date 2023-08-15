@@ -18,7 +18,7 @@ class BankAccount {
     if (money <= this.balance) {
 
       this.balance -= money;
-          console.log(`Withdraw: ${money}`);
+          console.log(`Withdraw: ${money}`);// string interpolation
     } else {
       throw new Error(`Balance is; ${this.balance}, nothing to withdraw`);
     }

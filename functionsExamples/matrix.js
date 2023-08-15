@@ -3,7 +3,8 @@ const mtr = [
     [4, 5, 6],
     [7, 8, 9]
 ]
-//10. Write a JavaScript function which returns the n rows by n columns identity matrix.
+//10. Write a JavaScript function which returns the 
+//n rows by n columns identity matrix.
 
 function matrix(nElement){
 
