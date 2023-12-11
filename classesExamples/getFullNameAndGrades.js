@@ -15,15 +15,15 @@ function getFullNamesFromStudents(elements) {
 
     elements.forEach((element) => {
 
-        const fullNameAndGrades ={
+        const fullNameAndGrades = {
             fullname:element.getFullName(),
             grade:element.getGrades()
         }
 
-            fullNames.push(fullNameAndGrades)
-        });
+        fullNames.push(fullNameAndGrades)
+    });
 
-        return fullNames;
+    return fullNames;
 }
 let inputNames = getFullNamesFromStudents(students)
 console.log(inputNames)
